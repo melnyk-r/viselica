@@ -25,4 +25,4 @@
  
  7. Приложение нaписано на языке Ruby.
  
- 8. Авторы приложения [Михаил Бутлицкий](https://github.com/aristofun),  [Вадим Венедиктов](https://github.com/installero),   соавтор [Melnykovych Roman](https://github.com/melnyk-r)
+ 8. Автор приложения: [Melnykovych Roman](https://github.com/melnyk-r)
